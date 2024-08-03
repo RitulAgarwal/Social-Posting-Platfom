@@ -1,4 +1,3 @@
-[![Github All Releases](https://img.shields.io/github/downloads/RitulAgarwal/Social-Posting-Platfom/total.svg)]()
 
 # Social Posting Platform
 
