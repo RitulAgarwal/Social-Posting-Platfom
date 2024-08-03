@@ -49,6 +49,21 @@ Starting development server at http://127.0.0.1:8000/
 
 Click the link and it will host the WebApp on your browser
 
+To create a superuser and access the Django Admin, 
+```bash
+  python manage.py createsuperuser
+```
+type username, email-address and password. 
+
+To perform changes in the existing model/schema, 
+```bash
+  python manage.py makemigrations
+```
+```bash
+  python manage.py migrate
+```
+for adding more features or deleting existing features/details. 
+
 
 ## Screenshots
 
