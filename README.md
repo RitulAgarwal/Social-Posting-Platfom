@@ -1,4 +1,4 @@
-[![Downloads](https://static.pepy.tech/badge/video2tfrecord)](https://pepy.tech/project/video2tfrecord)
+[![Github All Releases](https://img.shields.io/github/downloads/RitulAgarwal/Social-Posting-Platform/total.svg)]()
 # Social Posting Platform
 
 A Django based Web Application that allows you to perform all these functions given below.    
