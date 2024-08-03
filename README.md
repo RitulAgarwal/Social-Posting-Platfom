@@ -1,4 +1,4 @@
-[![Github All Releases](https://img.shields.io/github/downloads/RitulAgarwal/Social-Posting-Platfom/tree/main/total.svg)]()
+[![Github All Releases](https://img.shields.io/github/downloads/RitulAgarwal/Social-Posting-Platfom/total.svg)]()
 # Social Posting Platform
 
 A Django based Web Application that allows you to perform all these functions given below.    
