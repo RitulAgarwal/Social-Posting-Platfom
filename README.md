@@ -81,7 +81,6 @@ If you have any feedback, please reach out at ritul.agarwal.ug21@nsut.ac.in
 Contributions are always welcome!
 To add any additional functionality, or to indicate out errors in the code you may raise an issue. 
 
-# Hi, I'm Ritul! 👋
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ritulagarwal.github.io/portfolio/)
